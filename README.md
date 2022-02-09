@@ -20,4 +20,8 @@
   <li>Execute os comandos de SELECT dos scripts MySQL disponíveis na pasta queries</li>
 </ul>
 
+<p>As tabelas pergunta_345 e pergunta_678 são uma junção dos arquivos pergunta_3, pergunta_4, pergunta_5 e pergunta_6, pergunta_7 e pergunta_8, respectivamente, pois foram feitas em queries diferentes mas são dados complementares que precisaram ser juntados para a confecção das tabelas</p>
+
+<p>Tabelas .csv feitas usando o Export no resultado das queries do MySQL Workbench</p>
+
 <p>projeto feito por <a href="https://github.com/Artur-Moretti">Artur</a>, <a href="https://github.com/ericrodrigues00">Eric</a>, <a href="https://github.com/gilson08">Gilson</a>, <a href="https://github.com/heitorschumann">Heitor</a> e <a href="https://github.com/henriqueferrazo">Henrique</a></p>
