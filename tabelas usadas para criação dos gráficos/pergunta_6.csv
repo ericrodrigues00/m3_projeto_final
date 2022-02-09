@@ -1,0 +1,5 @@
+platforms,media_preco
+windows;mac;linux,6.48
+windows;mac,6.11
+windows,6.01
+windows;linux,4.98
